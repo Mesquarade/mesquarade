@@ -16,4 +16,4 @@
 여기서 사고가 멈춘다면, 그 멈춤은 독자의 선택이다.
 
 
-📄 Full text (PDF): [Freedom Preservation Axioms](./Freedom_Preservation_Axioms(자유보존론_공리계_최종정리본).pdf)
+📄 Full text (PDF): [Freedom Preservation Axioms](./Freedom_Preservation_Axioms.pdf)
